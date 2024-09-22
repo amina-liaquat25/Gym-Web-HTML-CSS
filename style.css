@@ -57,20 +57,17 @@ body {
 .navbar li a {
     color: white;
     text-decoration: none;
-    /* padding: 15px ; */
     padding: 10px;
 
 }
 
 .navbar li a:hover,
 .navbar li a.active {
-    /* text-decoration: underline; */
     color: rgb(136, 93, 93);
 
 }
 
 .btn {
-    /* font-family: 'Baloo Bhai', cursive; */
     margin: 0px 9px;
     background-color: black;
     color: white;
@@ -87,7 +84,6 @@ body {
 
 .container {
     border: 2px solid white;
-    /* margin: 106px 80px; */
     margin-top: 80px;
     margin-left: 800px;
     padding: 75px;
@@ -96,7 +92,6 @@ body {
 }
 
 .form-group input {
-    /* font-family: 'Baloo Bhai', cursive; */
     text-align: center;
     display: block;
     width: 508px;
